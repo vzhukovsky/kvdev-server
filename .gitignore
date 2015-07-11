@@ -1,0 +1,9 @@
+# folders
+/node_modules/
+.idea/
+
+
+# files
+.DS_Store
+.gitignore.swp
+kvdev-server.iml
